@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerronnect",
+        "uuid": 2541240,
+        "checksum": "00zt9i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
